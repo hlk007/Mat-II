@@ -1,4 +1,9 @@
 body {
-background-color:sienna; 
+    background-color: #08155D
+}
 
+header {
+    background-color: #0A175B;
+    
+    color: white;
 }
